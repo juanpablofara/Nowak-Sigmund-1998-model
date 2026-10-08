@@ -1,5 +1,3 @@
-# Nowak-Sigmund-1998-model
-
 # Computational Replication of Nowak & Sigmund (1998)
 
 Computational replication in R of the models presented in:
